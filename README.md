@@ -1,5 +1,3 @@
-![image](https://github.com/SAISANJAY10/BOOLEAN_FUNCTION_MINIMIZATION/assets/144228073/ddbf2a4f-0fb2-4563-9ae3-ac9b78a55231)# BOOLEAN_FUNCTION_MINIMIZATION
-
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
